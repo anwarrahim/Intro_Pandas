@@ -37,6 +37,11 @@ dogs.head()
 dogs.info( )
 ![img_4.png](img_4.png)
 dogs.describe()
+![img_5.png](img_5.png)
+dogs.values
+![img_6.png](img_6.png)
+dogs.columns
+dogs.index
 
 
 
