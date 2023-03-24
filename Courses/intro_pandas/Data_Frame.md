@@ -43,6 +43,15 @@ dogs.values
 dogs.columns
 dogs.index
 
+ ## pandas philosophy
+* Make working with “relational” or “labeled” data both easy and intuitive.
+* Aim to be the fundamental high-level building block for doing practical, real world data analysis in Python.
+* Also, be a foundational part of a higher-level library that can provide an end-to-end data analysis solution.
+* pandas is well suited for many different kinds of data:
+* Tabular data with heterogeneously-typed columns, as in an SQL table or Excel spreadsheet
+* Ordered and unordered (not necessarily fixed-frequency) time series data.
+* Arbitrary matrix data (homogeneously typed or heterogeneous) with row and column labels
+* Any other form of observational / statistical data sets. The data actually need not be labeled at all to be placed into a pandas data structure
 
 
 
